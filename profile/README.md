@@ -5,12 +5,12 @@ Tampa Bay Shine provides professional residential and commercial cleaning servic
 Website: https://tampabayshine.com
 
 ## Quick Links
-- Book a Cleaning / Request a Quote: https://tampabayshine.com/contact-us
+- Request a Quote / Contact Us: https://tampabayshine.com/contact-us
 - Services Overview: https://tampabayshine.com/services
 - House Cleaning: https://tampabayshine.com/standard-cleaning-services-tampa
 - Deep Cleaning: https://tampabayshine.com/deep-cleaning-services-tampa
 - Move-In / Move-Out Cleaning: https://tampabayshine.com/move-out-cleaning-tampa-1
-- Airbnb / Short-Term Rental Cleaning: https://tampabayshine.com/airbnb-cleaning-services
+- Airbnb Cleaning: https://tampabayshine.com/airbnb-cleaning-services
 - Office Cleaning: https://tampabayshine.com/office-cleaning
 
 ## What You’ll Find in This Organization
